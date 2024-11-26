@@ -1,6 +1,6 @@
 ### Hi, I'm Kiki Alfaini Nurrizki 👋
 
-- 🔭 Pursuing a Bachelor's degree in **Information Systems** at **Harapan Bangsa University**.
+- 🔭 Bachelor's degree in **Information Systems** at **Harapan Bangsa University**.
 - 🌱 Interested in **Web Programming**, **Data Science**, and **Cloud Computing**.
 - 👯 Participant of **Bangkit Academy 2023 Batch 2 Cloud Computing Learning Path**.
 - 📫 How to reach me on **[Instagram](https://www.instagram.com/kikialfnr/)** or **[LinkedIn](https://www.linkedin.com/in/kiki-alfaini-nurrizki/)**.
